@@ -174,10 +174,10 @@ Open browser and go to:
 
 | Name | Email |
 |------|-------|
-| Syazwan Zary | syazwan@student.edu |
-| Ahmad Faiz | ahmad@student.edu |
-| Nurul Iman | nurul@student.edu |
-| Sarah Tan | sarah@student.edu |
+| Khairulamirin | 2240235@alfateh.upnm.edu.my |
+| Syazwan | 2240242@alfateh.upnm.edu.my |
+| Syahmi | 2240248@alfateh.upnm.edu.my |
+| Ridzuan | 2240241@alfateh.upnm.edu.my |
 
 ---
 
