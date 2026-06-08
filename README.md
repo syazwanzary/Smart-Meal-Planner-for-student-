@@ -5,7 +5,7 @@
 | Detail | Information |
 |--------|-------------|
 | **Project Title** | Smart Meal Planner Optimization System |
-| **Course** | Linear Programming |
+| **Course** | Operational Reaseach |
 | **Semester** | June 2026 |
 
 ---
@@ -14,10 +14,10 @@
 
 | No | Name | Matrix Number |
 |----|------|---------------|
-| 1 | Syazwan Zary | A123456 |
-| 2 | Ahmad Faiz | A123457 |
-| 3 | Nurul Iman | A123458 |
-| 4 | Sarah Tan | A123459 |
+| 1 | Khairulamirin Bin Khairuddin | 2240235 |
+| 2 | Muhammad Syazwan Bin Salzazary | 2240242 |
+| 3 | Syed Wan Muhammad Syahmi Bin Syed Nasir | 2240248 |
+| 4 | Muhammad Ridzuan Bin Mat Rashid| 2240241 |
 
 ---
 
