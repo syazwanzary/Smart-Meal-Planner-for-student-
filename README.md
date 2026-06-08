@@ -40,3 +40,100 @@ University students struggle to eat healthy meals due to limited budgets. This s
 | x₅ | Apple (1 medium) | 1.50 | 80 | 0.5 |
 
 ### Objective Function (Minimize Cost)
+
+### Constraints
+
+---
+
+## 🛠️ Technologies Used
+
+| Technology | Purpose |
+|------------|---------|
+| PHP 8.x | Backend logic & LP solving |
+| MySQL 8.0 | Database storage |
+| HTML5 & CSS3 | User interface |
+| XAMPP | Local server |
+| GitHub | Version control |
+
+---
+
+## 📂 System Features
+
+| Feature | Status |
+|---------|--------|
+| Homepage with navigation | ✅ |
+| Input form for budget & nutrition | ✅ |
+| Food selection checkboxes | ✅ |
+| LP optimization solver | ✅ |
+| Results display page | ✅ |
+| Save to database | ✅ |
+| History page | ✅ |
+| View past solutions | ✅ |
+| About page with LP explanation | ✅ |
+
+---
+
+## 🗄️ Database Tables
+
+| Table | Description |
+|-------|-------------|
+| foods | Food items with price and nutrition |
+| problems | User optimization problems |
+| problem_foods | Links foods to problems |
+| solutions | Optimal servings for each food |
+| solution_summary | Total cost, calories, protein |
+
+---
+
+## 🚀 How to Run
+
+### Step 1: Install XAMPP
+Download and install XAMPP from https://www.apachefriends.org/
+
+### Step 2: Copy Project
+Copy the `smart-meal-planner` folder to:
+
+
+### Step 3: Start XAMPP
+- Open XAMPP Control Panel
+- Start Apache
+- Start MySQL
+
+### Step 4: Import Database
+- Open browser: http://localhost/phpmyadmin
+- Click "New" and create database: `meal_planner_db`
+- Click "Import" tab
+- Choose `meal_planner.sql` file
+- Click "Go"
+
+### Step 5: Run System
+Open browser and go to:
+
+
+---
+
+## 🧪 How to Use
+
+1. Click "New Meal Plan" on homepage
+2. Enter problem title
+3. Choose objective (Minimize Cost / Maximize Protein / Balanced)
+4. Set budget (RM), calories, protein
+5. Select available foods
+6. Click "Find Optimal Meal Plan"
+7. View your optimized meal plan
+8. Check history page for saved plans
+
+---
+
+## 📸 Screenshots
+
+| Screenshot | Filename |
+|------------|----------|
+| Homepage | screenshots/homepage.png |
+| Input Form | screenshots/input_form.png |
+| Results | screenshots/results.png |
+| History | screenshots/history.png |
+
+---
+
+## 📁 Project Structure
