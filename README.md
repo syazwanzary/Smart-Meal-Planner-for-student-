@@ -85,33 +85,6 @@ University students struggle to eat healthy meals due to limited budgets. This s
 
 ---
 
-## 🚀 How to Run
-
-### Step 1: Install XAMPP
-Download and install XAMPP from https://www.apachefriends.org/
-
-### Step 2: Copy Project
-Copy the `smart-meal-planner` folder to:
-
-
-### Step 3: Start XAMPP
-- Open XAMPP Control Panel
-- Start Apache
-- Start MySQL
-
-### Step 4: Import Database
-- Open browser: http://localhost/phpmyadmin
-- Click "New" and create database: `meal_planner_db`
-- Click "Import" tab
-- Choose `meal_planner.sql` file
-- Click "Go"
-
-### Step 5: Run System
-Open browser and go to:
-
-
----
-
 ## 🧪 How to Use
 
 1. Click "New Meal Plan" on homepage
@@ -122,51 +95,6 @@ Open browser and go to:
 6. Click "Find Optimal Meal Plan"
 7. View your optimized meal plan
 8. Check history page for saved plans
-
----
-
-## 📸 Screenshots
-
-| Screenshot | Filename |
-|------------|----------|
-| Homepage | screenshots/homepage.png |
-| Input Form | screenshots/input_form.png |
-| Results | screenshots/results.png |
-| History | screenshots/history.png |
-
----
-
-## 📁 Project Structure
-
----
-
-## ✅ Submission Checklist
-
-- [ ] All PHP files working
-- [ ] Database exported (meal_planner.sql)
-- [ ] README.md completed
-- [ ] Screenshots taken
-- [ ] Group names included
-- [ ] Uploaded to GitHub
-- [ ] Repository is public
-
----
-
-## 🎤 Presentation Tips
-
-### What to Show:
-1. Problem statement (1 min)
-2. LP formulation on board (2 min)
-3. Live system demo (3 min)
-4. Database structure (1 min)
-5. GitHub repository (1 min)
-6. Q&A (2 min)
-
-### Common Questions:
-- Why did you choose this problem?
-- How does your solver work?
-- What if no solution exists?
-- Who did what in the group?
 
 ---
 
