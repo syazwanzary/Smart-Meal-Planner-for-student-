@@ -137,3 +137,48 @@ Open browser and go to:
 ---
 
 ## 📁 Project Structure
+
+---
+
+## ✅ Submission Checklist
+
+- [ ] All PHP files working
+- [ ] Database exported (meal_planner.sql)
+- [ ] README.md completed
+- [ ] Screenshots taken
+- [ ] Group names included
+- [ ] Uploaded to GitHub
+- [ ] Repository is public
+
+---
+
+## 🎤 Presentation Tips
+
+### What to Show:
+1. Problem statement (1 min)
+2. LP formulation on board (2 min)
+3. Live system demo (3 min)
+4. Database structure (1 min)
+5. GitHub repository (1 min)
+6. Q&A (2 min)
+
+### Common Questions:
+- Why did you choose this problem?
+- How does your solver work?
+- What if no solution exists?
+- Who did what in the group?
+
+---
+
+## 📧 Group Contact
+
+| Name | Email |
+|------|-------|
+| Syazwan Zary | syazwan@student.edu |
+| Ahmad Faiz | ahmad@student.edu |
+| Nurul Iman | nurul@student.edu |
+| Sarah Tan | sarah@student.edu |
+
+---
+
+**© 2026 Smart Meal Planner Team | Linear Programming Project**
